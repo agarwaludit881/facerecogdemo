@@ -6,3 +6,4 @@ jupyter
 opencv-contrib-python
 cmake
 dlib
+dash
